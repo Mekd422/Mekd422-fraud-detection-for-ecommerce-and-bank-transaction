@@ -77,27 +77,6 @@ Target variable: Class
 
 This dataset is extremely imbalanced, with fraud cases representing ~0.17% of all transactions.
 
-Repository Structure
-fraud-detection/
-│
-├── data/                     # Ignored in Git (raw & processed data)
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── eda-fraud-data.ipynb
-│   ├── eda-creditcard.ipynb
-│   ├── feature-engineering.ipynb
-│   └── README.md
-│
-├── models/                   # Saved model artifacts (future work)
-├── scripts/
-├── tests/
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-
 Interim-1: Work Completed
 1. Data Cleaning & Preprocessing
 
